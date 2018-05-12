@@ -1,0 +1,9 @@
+[package]
+name = "clike-xdr-enums"
+version = "0.1.0"
+authors = ["Kevin Choubacha <chewbacha@gmail.com>"]
+
+[dependencies]
+serde = "1.0"
+serde-xdr = "0.5"
+serde_derive = "1.0"
